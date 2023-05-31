@@ -1,0 +1,112 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: white;
+  font-family:sans-serif;
+}
+h1{
+width:auto;
+padding:0px;
+margin-top: 0;
+margin-bottom: auto;
+font-size:5em;
+}
+.prgm{
+  font-size: 2em;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  margin-bottom:500px;
+  height: 88px;
+  width: 88px;
+  margin-right:0%;
+  margin-left:15%
+}
+.top-cloud{
+  margin-top:200px;
+  height: 88px;
+  width: 88px;
+  margin-left:40%;
+}
+p{
+  line-height: 15px;
+}
+.profile{
+  line-height: 2;
+    margin: 50px auto 50px auto;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.web-logo{
+width: 25%;
+  float: left;
+  margin-right: 35px;
+  margin-top:0px;
+  margin-bottom: 100px;
+}
+.phy-logo{
+width: 25%;
+float: right;
+margin-left:30px;
+}
+.java-logo{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+.contact-me{
+padding-top: 100px;
+}
+.btn {
+  background: #bed1cc;
+  background-image: -webkit-linear-gradient(top, #bed1cc, #fafafa);
+  background-image: -moz-linear-gradient(top, #bed1cc, #fafafa);
+  background-image: -ms-linear-gradient(top, #bed1cc, #fafafa);
+  background-image: -o-linear-gradient(top, #bed1cc, #fafafa);
+  background-image: linear-gradient(to bottom, #bed1cc, #fafafa);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 24px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: grey;
+  background-image: -webkit-linear-gradient(top,grey, grey);
+  background-image: -moz-linear-gradient(top, grey, grey);
+  background-image: -ms-linear-gradient(top,grey,grey);
+  background-image: -o-linear-gradient(top, grey,grey);
+  background-image: linear-gradient(to bottom,grey, grey);
+  text-decoration: none;
+}
+.bottom-container{
+  padding: 30px 30px;
+}
+.cmp{
+  padding: 10px 10px;
+}
+.mountain{
+  height: 350px;
+  width: 250px
+  padding-left:50%;
+padding-bottom:100px;
+margin-right:10%;
+}
+hr{
+ border-style: none;
+  width: 7%;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #7F8487;
+}
